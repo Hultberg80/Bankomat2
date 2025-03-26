@@ -1709,14 +1709,14 @@
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "Bankomat-dotnet/1.0.0": {
+      "Bankomat/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Bankomat-dotnet.dll": {}
+          "bin/placeholder/Bankomat.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bankomat-dotnet.dll": {}
+          "bin/placeholder/Bankomat.dll": {}
         }
       }
     }
@@ -5508,15 +5508,15 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Bankomat-dotnet/1.0.0": {
+    "Bankomat/1.0.0": {
       "type": "project",
-      "path": "../../bankomat-dotnet-main/Bankomat-dotnet.csproj",
-      "msbuildProject": "../../bankomat-dotnet-main/Bankomat-dotnet.csproj"
+      "path": "../../bankomat-dotnet-main/Bankomat.csproj",
+      "msbuildProject": "../../bankomat-dotnet-main/Bankomat.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Bankomat-dotnet >= 1.0.0",
+      "Bankomat >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
@@ -5556,8 +5556,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat-dotnet.csproj": {
-              "projectPath": "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat-dotnet.csproj"
+            "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat.csproj": {
+              "projectPath": "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat.csproj"
             }
           }
         }

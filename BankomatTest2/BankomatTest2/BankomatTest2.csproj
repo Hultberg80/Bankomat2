@@ -21,7 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\bankomat-dotnet-main\Bankomat-dotnet.csproj" />
+      <ProjectReference Include="..\..\bankomat-dotnet-main\Bankomat.csproj" />
     </ItemGroup>
 
 </Project>

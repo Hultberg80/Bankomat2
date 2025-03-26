@@ -4,12 +4,12 @@
     "C:\\Users\\hultb\\repos\\Bankomat2\\BankomatTest2\\BankomatTest2\\BankomatTest2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat-dotnet.csproj": {
+    "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat-dotnet.csproj",
-        "projectName": "Bankomat-dotnet",
-        "projectPath": "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat-dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat.csproj",
+        "projectName": "Bankomat",
+        "projectPath": "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat.csproj",
         "packagesPath": "C:\\Users\\hultb\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\obj\\",
         "projectStyle": "PackageReference",
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat-dotnet.csproj": {
-                "projectPath": "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat-dotnet.csproj"
+              "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat.csproj": {
+                "projectPath": "C:\\Users\\hultb\\repos\\Bankomat2\\bankomat-dotnet-main\\Bankomat.csproj"
               }
             }
           }
